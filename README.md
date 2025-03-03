@@ -12,6 +12,8 @@ A central location to keep track of all of my presentations, slides, etc.
 ## See Also
 
 - https://www.devalias.net/speaker/
+- https://speakerdeck.com/0xdevalias
+- https://www.slideshare.net/GlenndevaliasGrant
 - https://github.com/BountyMachine/about#presentations
 - https://github.com/0xdevalias/gopherblazer#talks
 - https://github.com/0xdevalias/hack-FaaSter#talks
